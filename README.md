@@ -1,5 +1,5 @@
 - Hi, I’m @Trutch70
-- I’m currently mastering symfony
+- I’m currently mastering symfony and learning React
 - How to reach me: mail: 96traczyklukasz@gmail.com
 
 <!---
