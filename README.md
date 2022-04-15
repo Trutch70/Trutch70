@@ -1,5 +1,5 @@
 - Hi, I’m @Trutch70
-- I’m currently mastering symfony and learning React
+- I’m currently skilled at symfony and API platform. Learning React
 - Cover Image: Logo of a great band called Death from Above 1979
 
 <!---
